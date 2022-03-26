@@ -5,23 +5,26 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-INSTRUCTOR EXAMPLE: What is a conditional statement?
+## INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: A conditional statement is a question using boolean logic to end with a true or false answer.
 
-  Researched answer:
+  Researched answer: A conditional statement uses (if, else, else if) to determin if a condition is true or false and thus following its outcome.
 
 
 
-1. What is git? What is the difference between git and Github?
+## 1. What is git? What is the difference between git and Github?
 
-  Your answer: Git is an opensource software that organizes and enables version control of text files.
+  Your answer:
+  Git is an opensource software that organizes and enables version control of text files.
+  GitHub is a central remote git manager.
 
-  Researched answer:
+  Researched answer:  
+  Git is a tool used to manage versions of code edits that are then transferred to files in a Git repository
+  GitHub  is a remote service for uploading copies of a git repository
 
 
-
-2. Which JavaScript operators will return a Boolean value?
+## 2. Which JavaScript operators will return a Boolean value?
 
   Your answer: > < = == === <= =>
 
@@ -29,7 +32,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 
 
-3. What is an index? What is the difference between index and value?
+## 3. What is an index? What is the difference between index and value?
 
   Your answer: An index is a group of elements counted starting from 0. Value is the a single element.
 
@@ -37,7 +40,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 
 
-4. What is iteration?
+## 4. What is iteration?
 
   Your answer: Iteration is a cycle.
 
@@ -45,7 +48,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 
 
-5. Give a brief description of proper pair programming techniques. What are the roles of each person?
+## 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
   Your answer: As a pair one would be typing and the other should be ensuring proper syntax as well as overall goal of what is being typed. This is done while both are able to see the work that is being done, either on the same computer screen or by utilization of a screen share program such as Zoom.
 
