@@ -51,10 +51,10 @@
 
 // --------------------1) Create a function that takes in any given number and determines if the number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below. Expected output: "42 is below boiling point", "350 is above boiling point", "212 is at boiling point"
 
-const temp1     = 42
-const temp2     = 350
-const temp3     = 212
-const bPoint    = 212
+// const temp1     = 42
+// const temp2     = 350
+// const temp3     = 212
+// const bPoint    = 212
 
 
 //expected output has been given
@@ -239,20 +239,86 @@ const bPoint    = 212
 // console.log(currentCReversed.join(''))
 // //1202 ovarB is the answer with this, moving on
 
-// --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
+// // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
+// // const myArray = [13, 34, 5, 10, 27, 42]
+// // const myArrayFirstnum = (myArray.slice(0,1))
+// // const numEval1 = () => {
+// // }
+// // console.log(myArrayFirstnum)
+// //I wrote the above before calling it a day.
+// // const myArray = [13, 34, 5, 10, 27, 42]
+// //I'm guessing this was the given and everything below is what I wrote.
+// //I think I was trying to answer a question that wasnt even being asked so I'll start over.
+// // const myArrayFirstnum = (myArray.slice(0,1))
+// // const numEval1 = () => {
+// // }
+// // console.log(myArrayFirstnum)
+// let myArray = [13, 34, 5, 10, 27, 42]
+// //What I need it something that counts up but only as high as the last array, so even if the array gets bigger or smaller is gives the correct number of responses
+// //I see now that what I was doing above was an attempt at getting the number of inputs in the array I think I can use now that I've thought about the question
+// // const myArrayFirstnum = (myArray.slice(0,1))
+// // const numEval1 = () => {
+// // }
+// // console.log(myArrayFirstnum)
+// //this gives me the first number
+// //I will see about making it push out the last number instead
+// const myArrayFirstnum = (myArray.pop())
+// const numEval1 = () => {
 
-const myArray = [13, 34, 5, 10, 27, 42]
-const myArrayFirstnum = (myArray.slice(0,1))
-const numEval1 = () => {
-}
-console.log(myArrayFirstnum)
+// }
+// // console.log(myArrayFirstnum)
+// let totalNumArray = (myArray.push(myArrayFirstnum))
+// // console.log(myArray)
+// // console.log(totalNumArray)
+// //with the above I have save the total number of in an array in totalNumArray
+// //I need to make an array with each of the numbers 0-5
+// // for(let i = 0; i <= totalNumArray; i++){
+// //     console.log("Counting 1 6 times?")
+// // }
+// // //I counted 7 times so I'll change the <= to < and see what that does
+// // for(let i = 0; i < totalNumArray; i++){
+// //             console.log("Counting 1 6 times?")
+// //     }
+// //counted 6 times
+// // need to have it return the individual array
+// // for(let i = 0; i < totalNumArray; i++){
+// //             console.log(myArray[i])
+// //     }
+// //It spits out the array now need to change the result to only spit out odd or even
+// for(let i = 0; i < totalNumArray; i++){
+//     if(myArray[i] % 2 !== 0){
+//         console.log("odd")
+//     }else if (myArray[i] % 2 === 0){
+//         console.log("even")
+//     }else {
+//         console.log("ERROR or just 0")
+//     }
+// }
+// //desired result of odd and even given moving on.
+
+
 
 // --------------------5) Create a function that takes in a set of any two numbers and subtracts the smaller number from the larger number using the sets of test variables provided below. Expected output: 42, 3
 
 // Set one:
-const number1 = 58
-const number2 = 100
-
+// const number1 = 58
+// const number2 = 100
+//need to compare the numbers
+//need to subtract the numbers
+//only needs to work with any TWO numbers
+// if (number1>number2){
+//     console.log(number1-number2)
+// }else {
+//     console.log(number2-number1)
+// }
+//not much to write about for this problem
 // Set two:
-const number3 = 27
-const number4 = 24
+// const number3 = 27
+// const number4 = 24
+// //copy the above but change the 1,2 for 3,4
+// if (number3>number4){
+//     console.log(number3-number4)
+// }else {
+//     console.log(number3-number4)
+// }
+//desired results given 
