@@ -28,7 +28,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: > < = == === <= =>
 
-  Researched answer:
+  Researched answer: It seems as if so many more options for things to return boolean values. It coveres anything that is true or false. Any value is true while any empty value is false.
 
 
 
