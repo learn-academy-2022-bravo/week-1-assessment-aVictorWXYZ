@@ -28,13 +28,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: > < = == === <= =>
 
-  Researched answer: It seems as if so many more options for things to return boolean values. It coveres anything that is true or false. Any value is true while any empty value is false.
+  Researched answer: 
+  It seems as if so many more options for things to return boolean values. It coveres anything that is true or false. Any value is true while any empty value is false.
 
 
 
 ## 3. What is an index? What is the difference between index and value?
 
-  Your answer: An index is a group of elements counted starting from 0. Value is the a single element.
+  Your answer: An index is a group of elements counted starting from 0. Value is the a single element while index is the collection of values called elements.
 
   Researched answer:
 
