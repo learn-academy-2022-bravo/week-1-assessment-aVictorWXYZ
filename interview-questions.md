@@ -62,12 +62,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Functions that work off of arrays
 
-2. Jest:
+2. Jest:a JavaScript testing application
 
-3. Objects:
+3. Objects: Objects a function to contain information
 
-4. Method:
+4. Method: Functionality that has been added to the language to accomplish a common task
 
-5. Classes:
+5. Classes: blueprint for objects
