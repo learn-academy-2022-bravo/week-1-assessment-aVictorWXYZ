@@ -234,12 +234,17 @@
 //   2202 ovarB
 
 // //recieved 2202 ovarB but you wanted Expected output: "1202 ovarB"
+// const currentCohort = "Bravo 2022"
+// var currentCReversed = currentCohort.split('')
+// currentCReversed.pop()
+// currentCReversed.reverse()
+// currentCReversed.unshift(1)
+// console.log(currentCReversed.join(''))
+
 const currentCohort = "Bravo 2022"
+
 var currentCReversed = currentCohort.split('')
-console.log(currentCReversed.pop())
-console.log(currentCReversed.reverse())
-console.log(currentCReversed.unshift(1))
-console.log(currentCReversed.join(''))
+console.log(currentCReversed.pop().reverse().unshift(1).join(''))
 // //1202 ovarB is the answer with this, moving on
 //Result:
 // 1202 ovarB
