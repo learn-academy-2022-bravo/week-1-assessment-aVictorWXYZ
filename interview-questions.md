@@ -46,7 +46,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Iteration is a cycle.
 
-  Researched answer: Iteration is also called a loop.
+  Researched answer: Iteration is also called a loop. used to repeat something until something happends. If the variable to end the iterations isnt established or writen correctly it will run until the computer runs into something that stops it
 
 
 
@@ -54,7 +54,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: As a pair one would be typing and the other should be ensuring proper syntax as well as overall goal of what is being typed. This is done while both are able to see the work that is being done, either on the same computer screen or by utilization of a screen share program such as Zoom.
 
-  Researched answer:
+  Researched answer: Pair programming is a team working on a single code to decrease errors and continuity of the program.
 
 
 
