@@ -225,19 +225,25 @@
 // var currentCReversed = currentCohort.split('')
 // console.log(currentCReversed.reverse())
 // console.log(currentCReversed.join())
-//2,2,0,2, ,o,v,a,r,B
+// 2,2,0,2, ,o,v,a,r,B
 // const currentCohort = "Bravo 2022"
 // var currentCReversed = currentCohort.split('')
-// console.log(currentCReversed.reverse())
+// currentCReversed.reverse()
 // console.log(currentCReversed.join(''))
+// result:
+//   2202 ovarB
+
 // //recieved 2202 ovarB but you wanted Expected output: "1202 ovarB"
-// const currentCohort = "Bravo 2022"
-// var currentCReversed = currentCohort.split('')
-// console.log(currentCReversed.pop())
-// console.log(currentCReversed.reverse())
-// console.log(currentCReversed.unshift(1))
-// console.log(currentCReversed.join(''))
+const currentCohort = "Bravo 2022"
+var currentCReversed = currentCohort.split('')
+console.log(currentCReversed.pop())
+console.log(currentCReversed.reverse())
+console.log(currentCReversed.unshift(1))
+console.log(currentCReversed.join(''))
 // //1202 ovarB is the answer with this, moving on
+//Result:
+// 1202 ovarB
+
 
 // // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
 // // const myArray = [13, 34, 5, 10, 27, 42]
@@ -285,6 +291,12 @@
 // //             console.log(myArray[i])
 // //     }
 // //It spits out the array now need to change the result to only spit out odd or even
+// tnum)
+
+// const myArray = [13, 34, 5, 10, 27, 42]
+// const myArrayFirstnum = (myArray.pop(0))
+// let totalNumArray = (myArray.push(myArrayFirstnum))
+
 // for(let i = 0; i < totalNumArray; i++){
 //     if(myArray[i] % 2 !== 0){
 //         console.log("odd")
@@ -295,6 +307,13 @@
 //     }
 // }
 // //desired result of odd and even given moving on.
+//result :
+// odd
+// even
+// odd
+// even
+// odd
+// even
 
 
 
@@ -303,22 +322,25 @@
 // Set one:
 // const number1 = 58
 // const number2 = 100
-//need to compare the numbers
-//need to subtract the numbers
-//only needs to work with any TWO numbers
+// // need to compare the numbers
+// // need to subtract the numbers
+// // only needs to work with any TWO numbers
 // if (number1>number2){
 //     console.log(number1-number2)
 // }else {
 //     console.log(number2-number1)
 // }
 //not much to write about for this problem
+// node result: 42
 // Set two:
 // const number3 = 27
 // const number4 = 24
-// //copy the above but change the 1,2 for 3,4
+//copy the above but change the 1,2 for 3,4
 // if (number3>number4){
 //     console.log(number3-number4)
 // }else {
 //     console.log(number3-number4)
 // }
-//desired results given 
+// desired results given 
+// node result: 3
+

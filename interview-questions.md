@@ -37,7 +37,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An index is a group of elements counted starting from 0. Value is the a single element while index is the collection of values called elements.
 
-  Researched answer:
+  Researched answer:  Index of an array is the location in which it is held starting from 0. 
+
 
 
 
@@ -45,7 +46,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Iteration is a cycle.
 
-  Researched answer:
+  Researched answer: Iteration is also called a loop.
 
 
 
