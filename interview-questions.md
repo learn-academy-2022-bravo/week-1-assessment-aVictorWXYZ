@@ -5,51 +5,56 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-INSTRUCTOR EXAMPLE: What is a conditional statement?
+## INSTRUCTOR EXAMPLE: What is a conditional statement?
+
+  Your answer: A conditional statement is a question using boolean logic to end with a true or false answer.
+
+  Researched answer: A conditional statement uses (if, else, else if) to determin if a condition is true or false and thus following its outcome.
+
+
+
+## 1. What is git? What is the difference between git and Github?
 
   Your answer:
+  Git is an opensource software that organizes and enables version control of text files.
+  GitHub is a central remote git manager.
 
-  Researched answer:
-
-
-
-1. What is git? What is the difference between git and Github?
-
-  Your answer:
-
-  Researched answer:
+  Researched answer:  
+  Git is a tool used to manage versions of code edits that are then transferred to files in a Git repository
+  GitHub  is a remote service for uploading copies of a git repository
 
 
+## 2. Which JavaScript operators will return a Boolean value?
 
-2. Which JavaScript operators will return a Boolean value?
+  Your answer: > < = == === <= =>
 
-  Your answer:
-
-  Researched answer:
+  Researched answer: 
+  It seems as if so many more options for things to return boolean values. It coveres anything that is true or false. Any value is true while any empty value is false.
 
 
 
-3. What is an index? What is the difference between index and value?
+## 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is a group of elements counted starting from 0. Value is the a single element while index is the collection of values called elements.
 
-  Researched answer:
-
-
-
-4. What is iteration?
-
-  Your answer:
-
-  Researched answer:
+  Researched answer:  Index of an array is the location in which it is held starting from 0. 
 
 
 
-5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+## 4. What is iteration?
 
-  Researched answer:
+  Your answer: Iteration is a cycle.
+
+  Researched answer: Iteration is also called a loop. used to repeat something until something happends. If the variable to end the iterations isnt established or writen correctly it will run until the computer runs into something that stops it
+
+
+
+## 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
+
+  Your answer: As a pair one would be typing and the other should be ensuring proper syntax as well as overall goal of what is being typed. This is done while both are able to see the work that is being done, either on the same computer screen or by utilization of a screen share program such as Zoom.
+
+  Researched answer: Pair programming is a team working on a single code to decrease errors and continuity of the program.
 
 
 
@@ -57,12 +62,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Functions that work off of arrays
 
-2. Jest:
+2. Jest:a JavaScript testing application
 
-3. Objects:
+3. Objects: Objects a function to contain information
 
-4. Method:
+4. Method: Functionality that has been added to the language to accomplish a common task
 
-5. Classes:
+5. Classes: blueprint for objects
